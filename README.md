@@ -1,7 +1,9 @@
 # Accident Detection and Emergency Alert System Using Arduino
 
-![Accident Detection System](https://via.placeholder.com/800x400?text=Arduino+Accident+Detection+System)
-![GSM GPS Alert System](https://via.placeholder.com/800x400?text=GSM+GPS+Emergency+Alert)
+<img src="Project Demo/Rear View.jpeg" width="600">
+<img src="Project Demo/Side View.jpeg" width="600">
+
+
 
 ## Overview
 
